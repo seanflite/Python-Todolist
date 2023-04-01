@@ -37,8 +37,3 @@
 - Configure the admin console
     admin console endpoint: `/admin`: you are able to edit todo-lists, todo-items, and users in the console
 
-(I was trying to Dockerize my app, but my old Mac here is too slow and laggy, and it died twice when running docker CLI installation T.T, and I do not really want to use my company(for now) Mac to do this, so maybe I will pass two Docker goals for now) 
-
-Enjoy!!
-
-Sean
